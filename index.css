@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.front-page {
+    background-color: #1b1b1b;
+    background-size: cover;
+    font-family: "bree serif";
+    color: #ffffff;
+    padding: 24px;
+}
+
+.top-section {
+    background-color: #e6f6ff;
+    background-size: cover;
+    margin: 4px;
+    border-radius: 12px;
+}
+
+.kalam-book {
+    height: 220px;
+}
+
+.popular-book-name {
+    color: #183b56;
+    font-size: 32px;
+    margin-left: 12px;
+}
+
+.popular-book-description {
+    color: #06070d;
+    font-size: 22px;
+    margin-left: 12px;
+    padding-left: 8px;
+}
+
+.popular-book-author {
+    color: #183b56;
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.read-now {
+    font-family: "Roboto";
+    margin-left: 16px;
+}
+
+.books-list {
+    font-size: 28px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.book-list-image {
+    height: 170px;
+}
+
+.book-name {
+    color: #e4e7eb;
+    font-size: 28px;
+    margin-left: 12px;
+    font-weight: lighter;
+}
+
+.book-author {
+    color: #9aa5b1;
+    margin-left: 12px;
+}
+
+.book-list-container {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.book-front-image {
+    height: 280px;
+}
+
+.detailed-book-description {
+    background-color: #1b1b1b;
+    background-size: cover;
+    font-family: "bree serif";
+    color: #ffffff;
+    padding: 24px;
+    text-align: center;
+}
+
+.back-btn {
+    background-color: gold;
+    margin-right: 8px;
+}
